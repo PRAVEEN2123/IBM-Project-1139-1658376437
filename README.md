@@ -1,0 +1,10 @@
+# IBM-Project-1139-1658376437
+Estimate the Crop Yield using Data Analytics
+TEAM LEADER
+RAGUL S
+TEAM MEMBERS
+MOHAN RAJ S
+NITHESH A
+SUGUMARAN S
+TAMIZL SELVAN N
+Footer
